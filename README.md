@@ -1,6 +1,8 @@
 # iop_r
 Inflated Ordered Probit and Logit Models Use iop With (In) R Software
 
+https://www.youtube.com/watch?v=NAPf8VEMwto
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
